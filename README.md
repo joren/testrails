@@ -1,0 +1,4 @@
+testrails
+=========
+
+Clean Rails applications
